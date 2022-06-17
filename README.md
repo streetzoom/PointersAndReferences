@@ -1,5 +1,4 @@
 # PointersAndReferences
- S-12
   Write a C++ function named apply_all that expects two arrays of integers and their sizes and
   dynamically allocates a new array of integers whose size is the product of the 2 array sizes
 
