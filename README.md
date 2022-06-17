@@ -19,10 +19,10 @@
     int array2[] {10,20,30};
 
     cout << "Array 1: " ;
-    print(array1,5);
+    print(array1, 5);
 
     cout << "Array 2: " ;
-    print(array2,3);
+    print(array2, 3);
 
     int *results = apply_all(array1, 5, array2, 3);
     cout << "Result: " ;
